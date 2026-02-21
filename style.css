@@ -176,6 +176,14 @@ h2 {
     border-bottom-color: var(--text-color);
 }
 
+/* Publications */
+.publications p {
+    font-size: 0.95rem;
+    line-height: 2.2;
+    margin-bottom: 20px;
+    text-align: justify;
+}
+
 /* Contact */
 .contact p {
     font-size: 0.95rem;
